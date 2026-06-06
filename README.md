@@ -93,9 +93,8 @@ El programa cambia automáticamente las condiciones cada 10 segundos para demost
 
 ## Integrantes
 
-- [Tu Nombre]
-- [Nombre de tu compañero]
-
+-Jose Antonio Ortega
+Rene Alejandro Ramirez
 ---
 
 ## Curso
